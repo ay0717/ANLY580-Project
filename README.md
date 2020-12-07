@@ -8,3 +8,5 @@ As global networks rapidly develop, more and more industries are moving their bu
 
 ``SVM.ipynb`` contains the code for SVM model, model results and confusion matrix.
 
+``hotel_test.csv`` hotel reviews test data set
+
