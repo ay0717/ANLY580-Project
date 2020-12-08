@@ -20,6 +20,8 @@ Code & data:
 
 ``hotel_test.csv`` hotel reviews test data set
 
+``train_EDA.ipynb`` contains the code for exploratory data analysis of training data set
+
 ``EDA_Test.ipynb`` contains the code for exploratory data analysis of test data set
 
 ``Logistic_and_Bert.ipynb`` contains the code for Logistic Regression model and BERT model
