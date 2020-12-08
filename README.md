@@ -10,6 +10,6 @@ As global networks rapidly develop, more and more industries are moving their bu
 
 ``SVM.ipynb`` contains the code for SVM model, model results and confusion matrix.
 
-··Data_Cleaning+Naive_Bayes+Model_Explainability.ipynb·· contains the code for Naive Bayes and Model Explainability
+``Data_Cleaning+Naive_Bayes+Model_Explainability.ipynb`` contains the code for Naive Bayes and Model Explainability
 
 
