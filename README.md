@@ -14,6 +14,10 @@ Code & data:
 
 ``op_spam_v1.4.zip`` raw data of 1600 hotel reviews in Chicago
 
+``Hotel_reviews.csv`` cleaned data set of hotel reviews
+
+``hotel_train.csv`` hotel reviews training data set
+
 ``hotel_test.csv`` hotel reviews test data set
 
 ``EDA_Test.ipynb`` contains the code for exploratory data analysis of test data set
